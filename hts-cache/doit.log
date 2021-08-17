@@ -1,0 +1,8 @@
+-A1000000 abmconsulting.pl
+File generated automatically on Tue, 17 Aug 2021 09:54:09, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Tue, 17 Aug 2021 09:54:09 at abmconsulting.pl
+(httrack -A1000000 abmconsulting.pl )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:54:09	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 53 seconds : 144 links scanned, 143 files written (10684445 bytes overall) [9748010 bytes received at 20608 bytes/sec], 1396589 bytes transferred using HTTP compression in 60 files, ratio 20%, 10.8 requests per connection
+(No errors, 1 warnings, 0 messages)
